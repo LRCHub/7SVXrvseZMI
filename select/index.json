@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "プロポーズ - Propose",
-  "base_artist": "natori",
-  "createdAt": "2026-03-21T09:30:13.561015Z",
+  "base_track": "プロポーズ",
+  "base_artist": "なとり",
+  "createdAt": "2026-03-22T09:59:22.047286Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -133,12 +133,31 @@
       "path": "select/pl_01_プロポーズ_なとり.txt"
     },
     {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
+      "id": "localdb_1",
+      "source": "localdb",
       "title": "プロポーズ",
       "artist": "なとり",
       "has_synced": false,
-      "path": "select/pl_02_プロポーズ_なとり.txt"
+      "path": "select/localdb_01_プロポーズ_なとり.txt",
+      "repo_name": "LZrCYX88DwA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "プロポーズ",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/localdb_02_プロポーズ_なとり.lrc",
+      "repo_name": "89SmTcPCg8g"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "プロポーズ",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/localdb_03_プロポーズ_なとり.lrc",
+      "repo_name": "cVh_ts2I3eA"
     }
   ]
 }
